@@ -1,0 +1,1 @@
+IONIC APP FOR WAREHOUSES# stockapp_phone
